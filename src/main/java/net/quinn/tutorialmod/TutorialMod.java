@@ -1,3 +1,4 @@
+// press Shift + F6 to edit across all files
 package net.quinn.tutorialmod;
 
 import com.mojang.logging.LogUtils;
